@@ -1,2 +1,2 @@
-# salary-prediction-front-end
+# Salary Prediction Front End 
  
